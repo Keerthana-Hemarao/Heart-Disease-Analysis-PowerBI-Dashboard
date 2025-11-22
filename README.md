@@ -100,5 +100,3 @@ Prevention clinics (BP, diabetes, smoking cessation) can significantly improve o
 ## Dashboard Preview  
 
 ![Heart Disease Dashboard](https://github.com/Keerthana-Hemarao/Heart-Disease-Analysis-PowerBI-Dashboard/blob/62cc47157f8d1199fc36b21c650ec083768dbc58/Heart%20Disease%20Dashboard%20Image.png)
-![Age Group Insights](images/age_group_chart.png)
-![Risk Factor Analysis](images/risk_factors.png)
